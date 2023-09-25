@@ -1,0 +1,57 @@
+
+
+body {
+    color: #282425;
+    background-color: lightblue;
+    font-size: 20px;
+    line-height: 1.4;
+    font-family: Calibri, Arial, sans-serif;
+    padding-top: 5Opx;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    background-color: darkblue;
+    font-size: 50px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+}
+
+h2, 
+h3 {
+    color: darkblue;
+}
+
+a {
+    color: lightblue;
+    font-style: italic;
+}
+
+.hlavicka,
+.paticka {
+    background-color: darkblue;
+    color: white;
+}
+
+.foto-martina {
+    width: 200px;
+    border-radius: 50%;
+    padding: 15px 10%;
+    float: left;
+    margin: 0 5px 5px 0px;
+}
+
+section {
+    padding: 50px 15%;
+}
+
+.paticka {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.hlavicka {
+    padding: 70px;
+}
